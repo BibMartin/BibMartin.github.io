@@ -10,7 +10,7 @@ On considère la fonction <script type="math/tex; mode=inline">f</script> sur <s
 
 $$f(x) = a\cdot x + b\cdot \sqrt{x}.$$
 
-avec <script type="math/tex; mode=inline">a\geq 0</script> et <script type="math/tex; mode=inline">b \textgreater 0</script>.
+avec a > 0 et b > 0.
 
 #### Point fixe
 
