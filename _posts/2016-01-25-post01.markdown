@@ -4,31 +4,4 @@ published: false
 title: A few formulas
 ---
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
-On considère la fonction <script type="math/tex; mode=inline">f</script> sur <script type="math/tex; mode=inline">\mathbb{R}^+</script>:
-
-$$f(x) = a\cdot x + b\cdot \sqrt{x}.$$
-
-avec <script type="math/tex; mode=inline">a\geq 0</script> et <script type="math/tex; mode=inline">b \textgreater 0</script>.
-
-#### Point fixe
-
-$$f(x)=x\hspace{5mm}\Longleftrightarrow\hspace{5mm}x = \left(\frac{b}{1-a}\right)^2.$$
-
-#### Limit
-
-$$\lim_{x\rightarrow\infty} \frac{f(x)}{x} = a.$$
-
-#### Concavité
-
-$$f\left(a\cdot x + b\cdot y\right) \geq a\cdot f(x) + b\cdot f(y).$$
-
-#### Monotonie
-
-$$x < y \hspace{5mm}\implies\hspace{5mm}f(x) < f(y).$$
-
-#### Pente à l'origine
-
-$$f'(0) = \infty.$$
-
+Foo
