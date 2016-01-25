@@ -3,7 +3,7 @@ pygments: true
 markdown: kramdown
 url: http://BibMartin.github.io
 name: Bibmartin
-description: Hosting ideas.
+description: Hosting ideas
 author: Martin Journois
 avatar: https://avatars1.githubusercontent.com/u/4586863?v=3&s=460
 ga_domain: 

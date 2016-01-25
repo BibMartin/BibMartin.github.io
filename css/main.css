@@ -192,6 +192,7 @@ header .h-wrap .close .lines::after {
                       padding-top .35s ease, 
                       padding-bottom .35s ease, 
                       border-width .35s ease;
+  background-image: url('../assets/banner.png');
 }
 
 #off-canvas.toggled {
@@ -216,6 +217,7 @@ header .h-wrap .close .lines::after {
 
 #off-canvas #bio h1 {
   font-size: 140%;
+  color: #E6D880;
   margin-top: 0;
 }
 
