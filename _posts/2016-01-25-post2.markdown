@@ -1,0 +1,6 @@
+---
+published: true
+title: Post2
+layout: post
+---
+This is post2
