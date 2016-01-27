@@ -1,6 +1,6 @@
 ---
 published: false
-title: [draft] Une fiscalité simple et incitative
+title: Une fiscalité simple et incitative
 layout: post
 ---
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
