@@ -8,6 +8,11 @@ layout: post
 Je ne suis pas un économiste, ni un grand connaisseur du droit fiscal. Mais il m'est venu un certain nombre d'idée à propos de la fiscalité ; que je n'arrive pas à disqualifier moi-même.
 C'est pourquoi je me propose humblement de les exposer en espérant que quelqu'un y trouve un intérêt, ou qu'il accepte de m'expliquer en quoi je fais erreur.
 
+## Transférer la fiscalité des entreprises
+
+Cette idée n'est probablement pas nouvelle. Je fais simplement le constat que les états rivalisent de réductions fiscale pour *attirer* certaines entreprises, tout en espérant qu'elles créent des emplois sur place.
+Un entreprise n'est qu'une boîte dans laquelle s'organise les échanges entre des investisseurs, des employés et des clients. On peut donc transférer la fiscalité de l'entreprise directement sur les investisseurs, les employés et les clients.
+
 On considère la fonction <script type="math/tex; mode=inline">f</script> sur <script type="math/tex; mode=inline">\mathbb{R}^+</script>:
 
 $$f(x) = a\cdot x + b\cdot \sqrt{x}.$$
