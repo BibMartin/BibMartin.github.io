@@ -9,4 +9,12 @@ Aussi je me propose dans ce *post* de mettre les choses à plat -- avec plus d'h
 
 ### Consommation et investissement
 
-La consommation (finale) consiste à acquérir un produit (bien ou service) pour l'utiliser ; c'est à dire pour jouir de sa destruction. L'investissement consiste à acquérir un produit dans l'espoir d'en retirer de la valeur. Cette création de valeur pourra nécessiter la destruction du produit acquis (on parle alors de *consommation intermédiaire*, pour embrouiller les choses), ou pas.
+La consommation (ou *consommation finale*) consiste à acquérir un produit (bien ou service) pour l'utiliser ; c'est à dire pour jouir de sa destruction. L'investissement consiste à acquérir un produit dans l'espoir d'en retirer de la valeur. Cette création de valeur pourra nécessiter la destruction du produit acquis (on parle alors de *consommation intermédiaire*, pour embrouiller les choses), ou pas.
+
+Exemples:
+
+* Consommation finale : Je dépense 50€ dans un restaurant.
+
+* Investissement destructif (consommation intermédiaire) : Un conducteur de taxi dépense 50€ dans un plein d'essence.
+
+* Investissement non destructif : Un artisan dépense 50€ dans l'achat d'un jeu de tournevis.
