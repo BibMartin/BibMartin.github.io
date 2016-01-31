@@ -17,3 +17,5 @@ Exemples:
 * Investissement non destructif : Un artisan dépense 50€ dans l'achat de tournevis. Le quincailler empoche les 50€. Quand à l'artisan, il lui suffit de gagner 1€ pour rentabiliser son investissement: il disposera alors de 1€ + 50€ de tournevis.
 
 Bien sûr, on pourrait discuter longuement la pertinence de chaque exemple: Se nourrir, n'est-ce pas une forme d'investissement ? Le taxi ne consomme-t-il pas aussi de l'essence pour se chauffer et écouter la radio ? Les tournevis valent-ils toujours 50€ après avoir été utilisés ? Ne faut-il pas compter un *amortissement* ? C'est probable. Mais l'idée générale demeure: le consommateur détruit de la valeur et ne produit rien, l'inversisseur cherche à produire plus de valeur que ce qu'il détruit.
+
+### 
