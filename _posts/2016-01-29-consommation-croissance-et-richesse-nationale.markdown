@@ -13,9 +13,9 @@ La consommation (ou *consommation finale*) consiste à acquérir un produit (bie
 
 Exemples:
 * Consommation finale : Un homme dépense 50€ dans un restaurant. Le restaurateur empoche le fruit de son travail, mais le client ne produit rien à partir du repas qu'il a consommé.
-* Investissement destructif (consommation intermédiaire) : Un conducteur de taxi dépense 50€ dans un plein d'essence. Le pompiste empoche lui aussi le fruit de son travail, mais le taxi espère bien rentabiliser la destruction de ce plein d'essence. Il va produire un service, en espérant récupérer au final plus de 50€.
-* Investissement non destructif : Un artisan dépense 50€ dans l'achat de tournevis. Le quincailler empoche les 50€. Quand à l'artisan, il lui suffit de gagner 1€ pour rentabiliser son investissement: il disposera alors de 1€ + 50€ de tournevis.
+* Investissement destructif (consommation intermédiaire) : Un conducteur de taxi dépense 50€ dans un plein d'essence. Le carburant va être détruit, mais le taxi espère bien rentabiliser sa dépense. Il va produire un service, en espérant récupérer au final plus de 50€.
+* Investissement non destructif : Un artisan dépense 50€ dans l'achat de tournevis. Il lui suffit de gagner 1€ pour rentabiliser son investissement: il disposera alors de 1€ + 50€ de tournevis.
 
 Bien sûr, on pourrait discuter longuement la pertinence de chaque exemple: Se nourrir, n'est-ce pas une forme d'investissement ? Le taxi ne consomme-t-il pas aussi de l'essence pour se chauffer et écouter la radio ? Les tournevis valent-ils toujours 50€ après avoir été utilisés ? Ne faut-il pas compter un *amortissement* ? C'est probable. Mais l'idée générale demeure: le consommateur détruit de la valeur et ne produit rien, l'inversisseur cherche à produire plus de valeur que ce qu'il détruit.
 
-### 
+###
