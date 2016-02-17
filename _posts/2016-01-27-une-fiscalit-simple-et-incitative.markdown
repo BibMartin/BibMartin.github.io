@@ -21,7 +21,7 @@ L'effet collatéral que pourrait avoir cette mesure, c'est d'inciter des entrepr
 
 Un entrepreneur gère indépendamment les comptes de son entreprise et ceux de son foyer. Il peut se verser un salaire supérieur ou inférieur aux revenus du mois, en fonction de la conjoncture et des économies de l'entreprise. 
 L'idée consiste à appliquer cette séparation de manière systématique et standardisée à chaque foyer fiscal, en créant un *compte entreprise* pour chacun. Ce compte perçoit les différents revenus du foyer sans aucune fiscalité ; et il alimente le compte courant du foyer sous la forme d'un versement mensuel.
-La fiscalité s'applique alors sur la valeur de ce versement ; taxant ainsi le *train de vie* du foyer, et pas son revenu.
+La fiscalité s'applique alors sur la valeur de ce versement ; taxant ainsi le *train de vie* du foyer, et pas son revenu. On distingue ainsi dans la fiscalité le flambeur qui va dépenser à tout va (fortement taxé) et le business angel qui aura de gros revenu mais un train de vie plus modeste (moins taxé). C'est une manière d'inciter les agants économiques à investir leur argent (en le conservant sur le compte entreprise) plutôt que de le consommer.
 
 On considère la fonction <script type="math/tex; mode=inline">f</script> sur <script type="math/tex; mode=inline">\mathbb{R}^+</script>:
 
