@@ -13,6 +13,13 @@ C'est pourquoi je me propose humblement de les exposer en espérant que quelqu'u
 Cette idée n'est probablement pas nouvelle. Je fais simplement le constat que les états rivalisent de réductions fiscale pour *attirer* certaines entreprises, tout en espérant qu'elles créent des emplois sur place.
 Or un entreprise est une boîte dans laquelle s'organise les échanges entre des investisseurs, des employés et des clients. On peut donc transférer la fiscalité de l'entreprise directement sur les investisseurs, les employés et les clients.
 Cette mesure apparament toute simple aurait pour effet de simplifier considérablement les débats politiques et sociaux: que les cotisations soient *patronales* ou *slariales*, elles sont de toute façons ponctionnées sur la valeur créée par le salarié.
+Sans compter la simplification pour les entreprises qui seraient débarassées du volet fiscal de leur comptabilité, cette mesure serait surtout un gain de justice: un salarié est aussi un citoyen ; il a son mot à dire sur la fiscalité. Alors qu'une entreprise n'est pas représentée lors d'une élection ; elle est taxée sans être représentée.
+
+L'effet collatéral que pourrait avoir cette mesure, c'est d'inciter des entreprises *virtuelles* à venir s'installer en France. Sans employés, clients ou investisseurs français, ces entreprises se feraient domicilier en France sans y payer d'impôt. Et bien soit. Si ces entreprises n'interagissent pas avec la France, elle ne *coûtent* rien à la France.
+
+## Passer chaque français sous le régime d'auto-entrepreneur
+
+
 
 On considère la fonction <script type="math/tex; mode=inline">f</script> sur <script type="math/tex; mode=inline">\mathbb{R}^+</script>:
 
