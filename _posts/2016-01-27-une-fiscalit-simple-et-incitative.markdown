@@ -17,9 +17,11 @@ Sans compter la simplification pour les entreprises qui seraient débarassées d
 
 L'effet collatéral que pourrait avoir cette mesure, c'est d'inciter des entreprises *virtuelles* à venir s'installer en France. Sans employés, clients ou investisseurs français, ces entreprises se feraient domicilier en France sans y payer d'impôt. Et bien soit. Si ces entreprises n'interagissent pas avec la France, elle ne *coûtent* rien à la France.
 
-## Passer chaque français sous le régime d'auto-entrepreneur
+## Chaque foyer français est une entreprise
 
-
+Un entrepreneur gère indépendamment les comptes de son entreprise et ceux de son foyer. Il peut se verser un salaire supérieur ou inférieur aux revenus du mois, en fonction de la conjoncture et des économies de l'entreprise. 
+L'idée consiste à appliquer cette séparation de manière systématique et standardisée à chaque foyer fiscal, en créant un *compte entreprise* pour chacun. Ce compte perçoit les différents revenus du foyer sans aucune fiscalité ; et il alimente le compte courant du foyer sous la forme d'un versement mensuel.
+La fiscalité s'applique alors sur la valeur de ce versement ; taxant ainsi le *train de vie* du foyer, et pas son revenu.
 
 On considère la fonction <script type="math/tex; mode=inline">f</script> sur <script type="math/tex; mode=inline">\mathbb{R}^+</script>:
 
