@@ -11,7 +11,8 @@ C'est pourquoi je me propose humblement de les exposer en espérant que quelqu'u
 ## Transférer la fiscalité des entreprises
 
 Cette idée n'est probablement pas nouvelle. Je fais simplement le constat que les états rivalisent de réductions fiscale pour *attirer* certaines entreprises, tout en espérant qu'elles créent des emplois sur place.
-Un entreprise n'est qu'une boîte dans laquelle s'organise les échanges entre des investisseurs, des employés et des clients. On peut donc transférer la fiscalité de l'entreprise directement sur les investisseurs, les employés et les clients.
+Or un entreprise est une boîte dans laquelle s'organise les échanges entre des investisseurs, des employés et des clients. On peut donc transférer la fiscalité de l'entreprise directement sur les investisseurs, les employés et les clients.
+Cette mesure apparament toute simple aurait pour effet de simplifier considérablement les débats politiques et sociaux: que les cotisations soient *patronales* ou *slariales*, elles sont de toute façons ponctionnées sur la valeur créée par le salarié.
 
 On considère la fonction <script type="math/tex; mode=inline">f</script> sur <script type="math/tex; mode=inline">\mathbb{R}^+</script>:
 
