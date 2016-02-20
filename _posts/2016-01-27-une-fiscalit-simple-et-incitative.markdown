@@ -31,6 +31,8 @@ Cette idée permet en particulier à chacun de se constituer une première assur
 
 Plus généralement, cette idée permet de simplifier, d'automatiser, de standardiser les plans d'épargne collectifs présents dans certaines entreprises, en donnant à chaque français la possibilité de constituer une épargne *avant-impôt*.
 
+Cette idée permet aussi de **distinguer clairement les impôts des cotisations sociales**. Les premiers interviennent au moment du versement du salaire (virement entre le compte entreprise et le compte courant) et visent à financer l'état et la solidarité nationale. Les cotisations sociales deviennent des contrats internes au compte entreprise et sont alors dirigés par le principe d'équilibre : ma cotisation est égale au risque que je représente.
+
 Mais **c'est surtout une manière de concilier la *nouvelle économie* avec le cadre classsique**: sans rien changer aux contrats de travail existants, cette mesure crée un cadre légal simple et uniforme pour des travailleurs combinant plusieurs activités. Si je suis salarié et souhaite compléter mon salaire avec *BlaBlaCar*, il suffit que la plate-forme *BlaBlaCar* verse mes revenus sur mon compte entreprise pour qu'ils soient fiscalisés avec les autres. Ainsi, il devient équivalent d'avoir un revenu de 2000€ ou 100 revenus de 20€.
 
 ## Un impôt très progressif
@@ -65,4 +67,4 @@ Cette fonction *r(x)* présente plusieurs intérêts:
   
 * La fonction *r(x)* est **concave** (sa pente diminue). On imagine rapidement une forme d'abus consistant à se servir de gros revenus pendant quelques mois, pour ensuite se servir un revenu de 400€ et ainsi profiter de l'abondement sur les faibles revenus. Cette stratégie ne serait pas payante. En effet, la concavité de *r(x)* permet de garantir que la stratégie la plus efficace serait de se servir un revenu le plus constant possible. Si je me verse sciemment un petit revenu pour profiter quelques temps de l'impôt négatif, je ne fait que récupérer des impôts que j'avais payé par le passé ; mais je ne récupère pas autant que ce que j'avais payé.
 
-* Pour les hauts revenus, 
+* Pour les hauts revenus,
