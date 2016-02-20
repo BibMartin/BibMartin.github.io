@@ -61,7 +61,7 @@ Cette fonction *r(x)* présente plusieurs intérêts:
   
   Par contre, cet impôt négatif se distingue du RSA ou d'un revenu minimum dans la mesure où *r(0) = 0*. Autrement dit, l'abondement de l'état est conditionné par l'existence d'un revenu ; ceux qui n'ont pas trouvé le moyen de se versé un revenu (même modeste) ne sont pas aidés par cet impôt négatif.
   
-  Cette propriété peut sembler dure ; elle ne l'est pas tant que ça car **la courbe monte très vite au voisinage de zéro**. Ainsi, si j'ai pu gagner 16€ dans le mois, la formule les transforme en 160€ ; si j'ai gagné 100€, ils deviennent 400€. Par ailleurs, capitaliser sur le compte-entreprise décrit plus haut permet de modérer les effets d'un mois peu productif.
+  Cette propriété peut sembler dure ; elle ne l'est pas tant que ça car **la courbe croît très vite au voisinage de zéro**. Ainsi, si j'ai pu gagner 16€ dans le mois, la formule les transforme en 160€ ; si j'ai gagné 100€, ils deviennent 400€. Par ailleurs, capitaliser sur le compte-entreprise décrit plus haut permet de modérer les effets d'un mois peu productif.
   
 * La fonction *r(x)* est **concave** (sa pente diminue). On imagine rapidement une forme d'abus consistant à se servir de gros revenus pendant quelques mois, pour ensuite se servir un revenu de 400€ et ainsi profiter de l'abondement sur les faibles revenus. Cette stratégie ne serait pas payante. En effet, la concavité de *r(x)* permet de garantir que la stratégie la plus efficace serait de se servir un revenu le plus constant possible. Si je me verse sciemment un petit revenu pour profiter quelques temps de l'impôt négatif, je ne fait que récupérer des impôts que j'avais payé par le passé ; mais je ne récupère pas autant que ce que j'avais payé.
 
