@@ -74,4 +74,15 @@ Cette fonction *r(x)* présente plusieurs intérêts:
   
 * La fonction *r(x)* est **concave** (sa pente diminue). On imagine rapidement une forme d'abus consistant à se servir de gros revenus pendant quelques mois, pour ensuite se servir un revenu de 400€ et ainsi profiter de l'abondement sur les faibles revenus. Cette stratégie ne serait pas payante. En effet, la concavité de *r(x)* permet de garantir que la stratégie la plus efficace serait de se servir un revenu le plus constant possible. Si je me verse sciemment un petit revenu pour profiter quelques temps de l'impôt négatif, je ne fait que récupérer des impôts que j'avais payé par le passé ; mais je ne récupère pas autant que ce que j'avais payé.
 
-* Pour les hauts revenus,
+* Pour les hauts revenus, l'impôt est très vite décourageant puisque le taux marginal d'imposition ne cesse de croître.
+  Avec un revenu de 6'400€ on paye 3'200€ d'impôt ce qui correspond à une imposition de 50%. A partir de 25'600€,
+  on atteint le taux symbolique de 75%. Quand à Ibrahimovic, s'il prélevait 1 million d'euros de salaire de son
+  compte entreprise (c'est à peut près son salaire mensuel à ma connaisssance), il ne profiterait que de 40'000€
+  atteignant alors 96% d'impôt.
+
+  Cela peut sembler exhorbitant, confiscatoire, et avoir des effets *anti-riche* pires que l'ISF ou la taxe Hollande à 75%.
+  Mais en réalité, c'est simpliment une **incitation à ne pas avoir un train de vie indécent**. Si un joueur de foot
+  acceptait de vivre avec 5'000€ par mois, il ne payerai que 10'000€ d'impôt environ ; **le reste de ses revenus
+  resteraient inverstis sur le compte entreprise et ne seraient pas fiscalisés du tout.** En effet, en conservant et en
+  investissant son argent, le footballeur crée des emplois et contribue positivement à l'économie ; il n'est taxé que
+  sur son train de vie.
