@@ -83,6 +83,6 @@ Cette fonction *r(x)* présente plusieurs intérêts:
   Cela peut sembler exhorbitant, confiscatoire, et avoir des effets *anti-riche* pires que l'ISF ou la taxe Hollande à 75%.
   Mais en réalité, c'est simpliment une **incitation à ne pas avoir un train de vie indécent**. Si un joueur de foot
   acceptait de vivre avec 5'000€ par mois, il ne payerai que 10'000€ d'impôt environ ; **le reste de ses revenus
-  resteraient inverstis sur le compte entreprise et ne seraient pas fiscalisés du tout.** En effet, en conservant et en
+  resteraient investis sur le compte entreprise et ne seraient pas fiscalisés du tout.** En effet, en conservant et en
   investissant son argent, le footballeur crée des emplois et contribue positivement à l'économie ; il n'est taxé que
   sur son train de vie.
