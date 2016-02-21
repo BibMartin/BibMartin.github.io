@@ -211,7 +211,7 @@ header .h-wrap .close .lines::after {
 
 #off-canvas #bio {
   width: 70%;
-  max-width: 720px;
+  max-width: 1400px;
   display: block;
 }
 
@@ -313,7 +313,7 @@ ul.posts li a { color: #fff; text-decoration: none; }
 
 section#single-wrap {
   width: 100%;
-  max-width: 1200px;
+  max-width: 1400px;
   margin: 20px auto;
   font-family: 'Lora', Georgia, serif;
   background: #fff;
